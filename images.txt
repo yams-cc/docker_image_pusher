@@ -1,2 +1,2 @@
 phpipam/phpipam-cron
-mariadb
+mariadb/maxscale
